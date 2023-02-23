@@ -1,0 +1,76 @@
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+#Login{
+    display: flex;
+    background:none;
+    border-radius: 30px;
+    color: beige;
+    border-color:antiquewhite;
+}
+#order{
+    display: flex;
+    background: antiquewhite;
+    border-radius: 10px;
+
+}
+#kipling{
+    display: flex;
+    
+}
+.rightnav{
+    display: flex;
+    margin: 0% 0% 0% 200%;
+    padding-left: 10px;
+}
+#about{
+    padding-right: 30px;;
+}
+#Bags{
+    padding-right: 30px;
+}
+#acc{
+
+    padding-right: 30px;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px 30px 10px;
+
+
+}
+.par{
+    color: antiquewhite;
+    margin-top: 10%;
+}
+#redbag{
+    background: none;
+    margin-left: 10%;
+
+}
+.brownblue{
+    display: flex;
+    margin-left: 20%;
+    padding: 10px;
+    
+}
+#blue{
+    padding-right: 30px;
+    margin-left: 20%;
+}
+#black{
+    background: none;
+    margin-left: 10%;
+
+}
+.maindiv{
+    position: absolute;
+    top: 0;
+    display: flex;
+    color: beige;
+    padding: 10px;
+}
